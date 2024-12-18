@@ -17,6 +17,4 @@
 
 ### Additional Sections (Optional):
 
-- **Contributing**: If you're open to contributions, you can add instructions on how others can contribute to your package.
-- **Changelog**: If your package is regularly updated, you can maintain a changelog of updates.
-- **Contact**: Provide contact information or links to your GitHub repository or other platforms for support.
+- **Contact**: (https://www.linkedin.com/in/adilelkhalloufi/)
