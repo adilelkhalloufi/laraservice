@@ -1,0 +1,24 @@
+{
+    "name": "adev/laraservice",
+    "description": "Explains how to create a service class and Constants From database to your models",
+    "autoload": {
+        "psr-4": {
+            "Adev\\Laraservice\\": "src/"
+        }
+    },
+    "keywords": [
+        "laravel",
+        "service",
+        "constants"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "adil elkhalloufi",
+            "email": "adilelkhalloufi@gmail.com"
+        }
+    ],
+   "minimum-stability": "dev",
+     
+    "require": {}
+}
