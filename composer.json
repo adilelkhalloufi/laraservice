@@ -22,7 +22,7 @@
    "prefer-stable": true,
    "require": {
     "adev/laraservice": "dev-master"
-},
+    }
 
      
 }
