@@ -20,8 +20,10 @@
     ],
    "minimum-stability": "dev",
    "prefer-stable": true,
-   "require": {
-    "adev/laraservice": "dev-main"
+    "version": "1.0.0",
+    "type": "library",
+    "require": {
+        "php": ">=7.3"
     }
 
      
